@@ -1,0 +1,1 @@
+select * from sf_db.test_schema.orders
